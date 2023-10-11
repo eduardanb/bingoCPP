@@ -1,4 +1,4 @@
-O código que você forneceu é um programa de bingo em C++. Ele inclui várias bibliotecas e define uma estrutura `Jogador` que representa as informações de um jogador de bingo. Aqui está uma descrição das bibliotecas incluídas:
+O código fornecido é um programa de bingo em C++. Ele inclui várias bibliotecas e define uma estrutura `Jogador` que representa as informações de um jogador de bingo. Aqui está uma descrição das bibliotecas incluídas:
 
 1. `#include <iostream>`: Permite a entrada e saída de dados no console. É usado para exibir mensagens e receber entrada do usuário.
 
